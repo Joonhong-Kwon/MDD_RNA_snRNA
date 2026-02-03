@@ -30,11 +30,15 @@ This repository contains analysis pipelines for bulk RNA-seq and single-nucleus 
 ---
 
 ## Installation
-Human reference (GRCh38) for RNA-seq
+Human reference (GRCh38) and annotation (Ensembl release 100) for RNA-seq
 ```bash
 curl -O ftp://ftp.ensembl.org/pub/release-100/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+curl -O ftp://ftp.ensembl.org/pub/release-100/gtf/homo_sapiens/Homo_sapiens.GRCh38.100.gtf.gz
 ```
+which should install in about 2-5 minutes.
+
 Human reference (GRCh38) for snRNA-seq
 ```bash
 curl -O https://cf.10xgenomics.com/supp/cell-exp/refdata-gex-GRCh38-2020-A.tar.gz
 ```
+which should install in about 3-5 minutes.
