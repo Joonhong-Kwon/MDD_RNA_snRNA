@@ -1,6 +1,6 @@
 # MDD_RNA_snRNA
 
-This repository contains analysis pipelines for bulk RNA-seq and single-nucleus RNA-seq (snRNA-seq) data to identify disease-associated transcriptional changes in MDD.
+This repository contains analysis pipelines for bulk RNA-seq and single-nucleus RNA-seq (snRNA-seq) data.
 
 ---
 
