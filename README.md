@@ -2,7 +2,6 @@
 
 This repository contains analysis pipelines for bulk RNA-seq and single-nucleus RNA-seq (snRNA-seq) data.
 
----
 
 ## System requirements
 
