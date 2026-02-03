@@ -15,16 +15,6 @@ This repository contains analysis pipelines for bulk RNA-seq and single-nucleus 
 - R 4.2.1 → Subclustering_and_Trajectory.R
 - R 4.0.2 → all other analyses
 
-### Software
-- Trim Galore (v0.6.6)
-- FastQC (v0.11.9)
-- MultiQC (v1.0.dev0)
-- TopHat (v2.1.1)
-- Cufflinks (v2.2.1)
-- Cell Ranger (v5.0.1)
-- Cytoscape (v3.8.0)
-- GraphPad Prism 7 (v7.0.4)
-
 ### R packages
 - preprocessCore (1.52.1)
 - limma (3.46.0)
