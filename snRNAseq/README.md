@@ -16,9 +16,9 @@ saveRDS(obj, "demo_seurat.rds")
 
 This will create a small Seurat object (demo_seurat.rds) that can be used to run the complete pipeline in under few minutes.
 
-- QC, Clustering and Annotation: 'snRNAseq_dlPFC_dataset.R' or 'snRNAseq_CBC_dataset.R'
-- Subclustering and Trajectory analysis: 'Subclustering_and_Trajectory.R'
-- Pseudobulk DEG analysis: 'Pseudobulk_DEG_EdgeR.R'
-- Enrichment_analysis: 'Enrichment_analysis_cluster.R'
-- Cell-cell interaction: 'CellChat.R'
-- Integration analysis with Public data: 'Integration_analysis_Public_data.R'
+- QC, Clustering and Annotation: `snRNAseq_dlPFC_dataset.R' or 'snRNAseq_CBC_dataset.R`
+- Subclustering and Trajectory analysis: `Subclustering_and_Trajectory.R`
+- Pseudobulk DEG analysis: `Pseudobulk_DEG_EdgeR.R`
+- Enrichment_analysis: `Enrichment_analysis_cluster.R`
+- Cell-cell interaction: `CellChat.R`
+- Integration analysis with Public data: `Integration_analysis_Public_data.R`
