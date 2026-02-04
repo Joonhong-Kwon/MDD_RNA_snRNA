@@ -26,6 +26,7 @@ This repository contains analysis pipelines for bulk RNA-seq and single-nucleus 
 - circlize (0.4.15)
 - car (3.1-2)
 
+### No special hardware required
 ---
 
 ## Installation
