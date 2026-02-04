@@ -1,6 +1,6 @@
 # RNA-seq and snRNA-seq analysis pipeline
 
-- Multicollinearity and PCA: `Multicollinearity_and_PCA.R`
-- Kolmogorov-Smirnov test: `KS_test.R`
+- Multicollinearity check and principal variance component analysis: `Multicollinearity_and_PCA.R`
+- Cell type enrichment analysis in snRNA-seq datasets in snRNA-seq datasets (Kolmogorov-Smirnov test): `KS_test.R`
 - Pearson correlation: `Pearson_Cor_RNA_snRNA.R`
 - Visualization: `Graph_Gene_Ontology.R`
