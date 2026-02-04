@@ -4,7 +4,7 @@ This repository contains analysis pipelines for bulk RNA-seq and single-nucleus 
 
 
 ## System requirements
-
+- No special hardware required
 ### OS
 - Linux (Ubuntu 18.04 LTS)
 - Windows (R-based downstream analyses only)
@@ -26,7 +26,6 @@ This repository contains analysis pipelines for bulk RNA-seq and single-nucleus 
 - circlize (0.4.15)
 - car (3.1-2)
 
-### No special hardware required
 ---
 
 ## Installation
